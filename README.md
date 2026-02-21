@@ -1,6 +1,6 @@
 # Laravel To-Do Application
 
-A full-stack Project and Task management system built for the Apollo Green Solutions technical assessment.
+A full-stack Project and Task management system built using Laravel.
 
 ## Features
 
@@ -20,8 +20,8 @@ A full-stack Project and Task management system built for the Apollo Green Solut
 
 1. **Clone the repository:**
 ```bash
-    git clone https://github.com/Rupashri-Das/laravel_todo_app_rupashri_das.git
-    cd laravel_todo_app_rupashri_das
+    git clone https://github.com/Rupashri-Das/laravel-todo-app_rupashri_das.git
+    cd laravel-todo-app_rupashri_das
 ```
 
 2. **Install dependencies:**
@@ -57,6 +57,7 @@ A full-stack Project and Task management system built for the Apollo Green Solut
 ```bash
     php artisan serve
 ```
+
 Access the application at: http://127.0.0.1:8000
 
 ## Technical Highlights
