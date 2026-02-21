@@ -17,8 +17,8 @@ A full-stack Project and Task management system built for the Apollo Green Solut
 ## Installation & Setup
 
 1. **Clone the repository:**
-'''git clone https://github.com/Rupashri-Das/laravel_todo_app_rupashri_das.git
-cd laravel_todo_app_rupashri_das'''
+git clone https://github.com/Rupashri-Das/laravel_todo_app_rupashri_das.git
+cd laravel_todo_app_rupashri_das
 
 2. **Install dependencies:**
 composer install
@@ -31,12 +31,12 @@ php artisan key:generate
 4. **Database Configuration:**
 Open the .env file and update your MySQL credentials:
 
-'''DB_CONNECTION=mysql
+DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=your_database_name
 DB_USERNAME=your_username
-DB_PASSWORD=your_password'''
+DB_PASSWORD=your_password
 
 5. **Run Migrations:**
 php artisan migrate
@@ -46,7 +46,7 @@ php artisan serve
 
 Access the application at: http://127.0.0.1:8000
 
-##Technical Highlights
+## Technical Highlights
 Built using Laravel 11.
 
 Optimized database queries using Eager Loading to prevent N+1 issues.
