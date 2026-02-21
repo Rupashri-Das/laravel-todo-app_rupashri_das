@@ -57,7 +57,7 @@ A full-stack Project and Task management system built for the Apollo Green Solut
 ```bash
     php artisan serve
 ```
-    Access the application at: http://127.0.0.1:8000
+Access the application at: http://127.0.0.1:8000
 
 ## Technical Highlights
 
