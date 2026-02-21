@@ -18,7 +18,7 @@ A full-stack Project and Task management system built for the Apollo Green Solut
 
 1. **Clone the repository:**
 git clone https://github.com/Rupashri-Das/laravel_todo_app_rupashri_das.git
-cd laravel_todo_app_rupashri_das
+cd laravel_todo_app_rupashri_das```
 
 2. **Install dependencies:**
 composer install
